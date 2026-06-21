@@ -1,0 +1,227 @@
+{
+  "version": "2.2",
+  "last_updated": "2026-06-21",
+  "identity": "Search4Satori (S4S)",
+  "mission": "Decentralized Physical Infrastructure Network & Regenerative Finance ecosystem bridging digital sovereignty and physical alchemy",
+  "baseline_target": "\u20ac10k/week passive yield",
+  "hardware": {
+    "master_engine": "i9-10900K (I9Rig)",
+    "ram": "62GB",
+    "os": "Ubuntu 24.04 (Noble Numbat)",
+    "storage": {
+      "ssd": "231GB (OS)",
+      "nas": "1.9TB (Telemetry)",
+      "gdrive": "2TB (Mirror)"
+    },
+    "connectivity": "Starlink (primary), NAS via switch",
+    "network": "Tailscale mesh (100.64.0.0/10)",
+    "physical_location": "Waihi Shed"
+  },
+  "cognitive_trinity": {
+    "navigator": {
+      "vessel": "Claude (claude-sonnet-4-6)",
+      "role": "Strategic Goal Decomposition, Audit Authority",
+      "channel": "OpenClaw (127.0.0.1:18789)"
+    },
+    "architect": {
+      "vessel": "Gemini",
+      "role": "System DNA, RG Codex & Manifest Maintenance",
+      "note": "Reads GEMINI_CONTEXT.md from GDrive for session continuity"
+    },
+    "mechanic": {
+      "vessel": "Jarvis (jarvis:latest / phi4:14b)",
+      "role": "IoT, x402 Financial Signing, Local Bash Execution"
+    },
+    "sentinel": {
+      "vessel": "DeepSeek-R1:32b",
+      "role": "Research, Revenue Scout, Security Monitoring"
+    }
+  },
+  "models_installed": {
+    "phi4:14b": "Primary local \u2014 coding/research",
+    "deepseek-r1:32b": "Sentinel \u2014 deep research",
+    "deepseek-r1:14b": "Routine subagent tasks",
+    "jarvis:latest": "Bash/system/IoT execution",
+    "jarvis-workshop:latest": "Extended fabrication tasks"
+  },
+  "wallets": {
+    "personal_solflare": {
+      "address": "6huWPSh85Fyk5ft1gmUnyBXRA432WDmLZYk7X1TnFApA",
+      "note": "User's private wallet \u2014 NOT foundry-controlled. Profit destination."
+    },
+    "foundry_hot": {
+      "address": "H6R24JdYnmJZTQFgA5J7N6XD8HXxJQwt1N2hNF2LpZ8g",
+      "keypair": "~/.satori/vault/foundry-hot.json",
+      "network": "Solana mainnet-beta",
+      "role": "Hormuz Rotation trades, x402 micro-payments",
+      "created": "2026-03-26",
+      "note": "Replaced compromised 3SVPL wallet"
+    },
+    "base_x402": {
+      "address": "0x93Edb4598B931213C23FE0ac01634711a8c9E8F6",
+      "network": "Base mainnet (EVM)",
+      "role": "x402 micro-payment rail"
+    },
+    "cosmos_kepler": "cosmos1nd9844l2fsugxf0dwlvjhgkllhkd87xfq2862x",
+    "regen_network": "regen1nd9844l2fsugxf0dwlvjhgkllhkd87xflgvxuz",
+    "akash": "akash1nd9844l2fsugxf0dwlvjhgkllhkd87xfd32anu"
+  },
+  "s4s_token_wallets": {
+    "wood": {
+      "address": "8fiTjLSXnp7wrowtgqWip6A5ibaJtbW3zGWHeHAfWJD3",
+      "allocation": 400000000,
+      "pct": 40,
+      "role": "Community & Ecosystem Growth"
+    },
+    "metal": {
+      "address": "ogCuniVGfMcpDUoFW6cAnKit9PymgCF9gJt5W3hvgLi",
+      "allocation": 200000000,
+      "pct": 20,
+      "role": "Founder/Team \u2014 12mo cliff, 48mo vest"
+    },
+    "earth": {
+      "address": "54nrK3Hnhb5RZMWciMBzt6MFF1ciRGJc4qDcHdZ1HaLU",
+      "allocation": 150000000,
+      "pct": 15,
+      "role": "Foundation & Infrastructure"
+    },
+    "water": {
+      "address": "ECgFCuEWcuUJwFxaFEGaoABBhsFZMr7LuACwtKtzRXy3",
+      "allocation": 150000000,
+      "pct": 15,
+      "role": "Liquidity \u2014 100% unlocked at launch"
+    },
+    "fire": {
+      "address": "9sesX5oJHU8qDU85yByTmRjvk3r6z9t5xAxd2UZMBqLb",
+      "allocation": 100000000,
+      "pct": 10,
+      "role": "Operations & Rewards"
+    },
+    "authority": {
+      "address": "r5Ec9TDV5qwDh9AoNtqxq7fyqiH6sKbJJfRUpdVdpuq",
+      "role": "Token mint authority (Squads multisig)"
+    },
+    "forge_evm": {
+      "address": "0xeB424380753Ec763106E2F26A729E60EB1263fF3",
+      "role": "Base mainnet EVM"
+    }
+  },
+  "depin_nodes": {
+    "bitcoin_core": {
+      "status": "active",
+      "container": "satori-btc",
+      "network": "mainnet"
+    },
+    "nexus_prover": {
+      "status": "active",
+      "node_id": "37933180",
+      "service": "nexus-prover.service"
+    },
+    "aioz": {
+      "status": "active",
+      "binary": "~/.local/bin/aiozAiNodeWrapper",
+      "version": "v2.1.17",
+      "storage": "/mnt/temp_nas/aioz-storage"
+    },
+    "grass": {
+      "status": "active",
+      "container": "grass"
+    }
+  },
+  "trading": {
+    "strategy": "Hormuz Rotation",
+    "correlation": "-0.68 (Brent Crude / SOL)",
+    "sentiment_threshold": 0.65,
+    "execution": "Jito Bundles (98% success rate)",
+    "dashboard": "~/foundry/satori-dash.py",
+    "alpha_pulse": "~/foundry/scripts/alpha_pulse.py",
+    "status": "ARCHIVED - sunset 2026-05-30"
+  },
+  "security": {
+    "firewall": "UFW active",
+    "ssh": "Key-only (PasswordAuthentication no)",
+    "authorized_node": "Surface DESKTOP-5784SAU",
+    "vault": "~/.satori/vault/.env (600)",
+    "known_vulnerabilities": [
+      "NOPASSWD sudo still active \u2014 needs remediation",
+      "Plain-text keys in ~/.openclaw/ \u2014 review needed"
+    ]
+  },
+  "canonical_paths": {
+    "foundry_root": "~/Satori_Foundry/",
+    "memory": "~/Satori_Foundry/MEMORY.md",
+    "manifest": "~/Satori_Foundry/satori.json",
+    "ledger": "~/Satori_Foundry/foundry/memory/ledger.md",
+    "souls": "~/Satori_Foundry/foundry/souls/",
+    "vault": "~/.satori/vault/.env",
+    "gemini_context": "~/Satori_Foundry/GEMINI_CONTEXT.md",
+    "openclaw_workspace": "~/.openclaw/workspace/",
+    "trading_dashboard": "~/foundry/satori-dash.py",
+    "depin_config": "~/Satori_Foundry/aioz-local/config"
+  },
+  "s4s_token": {
+    "network": "Solana mainnet-beta",
+    "mint": "Dx7RCVwuXKHHmShzua6895Z8RWTiQSi1pabia4DGRB5D",
+    "standard": "Token-2022",
+    "transfer_fee_pct": 1,
+    "total_supply": 1000000000,
+    "logo_arweave": "arweave.net/0frRgezPejpEudnkRuT8w_uIkrJxfsBMO9iVnoX6Swk",
+    "metadata_arweave": "arweave.net/gmbH48sveQolPvxnuHyL2MvW6puY9_Ms2DbBzLIcVAo",
+    "multisig": "PddCBK3cEiQkzjHTDtWBxAw6mCP3JNxGrk2GAqpguPj",
+    "status": "MAINNET LIVE",
+    "liquidity": "PENDING - organic funding via product revenue"
+  },
+  "products": {
+    "harmonic_navigator": {
+      "status": "live",
+      "element": "fire",
+      "description": "Sovereign OS for personal alignment \u2014 astrology, Gene Keys, Human Design, Ayurveda, TCM"
+    },
+    "satori_insights": {
+      "status": "building",
+      "element": "fire",
+      "description": "Crypto tax reconciliation \u2014 NZ IRD, CARF, global compliance",
+      "platform": "Replit"
+    },
+    "satori_memories": {
+      "status": "live",
+      "element": "metal",
+      "description": "Physical collectibles + Arweave provenance minting"
+    },
+    "satori_flow_app": {
+      "status": "live",
+      "element": "water",
+      "description": "Environmental/weather/ocean data capture, Ocean Protocol trading"
+    },
+    "satori_helpr": {
+      "status": "live",
+      "element": "water",
+      "description": "Marine AI navigation, sustainable fishing, safety"
+    },
+    "satori_build_slipstream": {
+      "status": "live",
+      "element": "wood",
+      "description": "Health & safety app for construction/trades"
+    },
+    "satori_regen": {
+      "status": "spec",
+      "element": "fire",
+      "description": "Enterprise green IT incentive framework, S4S micro-rewards"
+    },
+    "satori_insur": {
+      "status": "started",
+      "element": "earth",
+      "description": "Insurance product"
+    },
+    "satori_trac": {
+      "status": "started",
+      "element": "fire",
+      "description": "Tracking product"
+    },
+    "job_sorted_pro": {
+      "status": "live",
+      "element": "side",
+      "description": "Service/trades marketplace \u2014 jobsorted.pro"
+    }
+  }
+}
