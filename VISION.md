@@ -44,7 +44,7 @@ Tagline: "Dirt on hands, stars in eyes."
 - SatoriINSUR — insurance product (started)
 - SatoriHELPR — marine AI navigation (Water/Fire crossover)
 - SatoriTRAC — tracking product
-- I9Rig: Ollama, DePIN nodes (AIOZ, Grass, Nexus, Bitcoin), Navigator AI
+- Foundry Node: Ollama, DePIN nodes (AIOZ, Grass, Nexus, Bitcoin), Navigator AI
 - S4S token: Mainnet, 1B supply, Token-2022, multisig sovereign council
 
 ### 🌍 EARTH — SatoriINVEST
@@ -86,7 +86,7 @@ ElizaOS = autonomous execution layer across all spokes:
 ---
 
 ## Identity Context (from Sovereign Core doc)
-- **Human Design:** 2/5 Emotional Manifesting Generator
+- **Human Design:** 
 - **Primary filter:** Sacral response (gut)
 - **Secondary filter:** Emotional clarity (wait for the wave)
 - **Methodology:** Subtractive Creation — remove interference, reveal signal
@@ -126,4 +126,4 @@ ElizaOS = autonomous execution layer across all spokes:
 
 ---
 
-*Navigator note: Mike has built MORE than the docs suggest. Always ask before assuming something is "planned" — it may already exist.*
+*Navigator note: The Architect has built MORE than the docs suggest. Always ask before assuming something is "planned" — it may already exist.*
