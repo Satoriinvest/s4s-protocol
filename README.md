@@ -90,11 +90,7 @@ SatoriREGEN is Earth-domain and Fire-powered: its product domain is ecological p
 
 ## 🔧 Infrastructure
 
-Built on sovereign, local-first infrastructure:
-- **I9Rig** — Waihi, New Zealand. i9-10900K, 62GB RAM, Ubuntu 24.04
-- **DePIN Nodes** — AIOZ (CDN), Grass (bandwidth), Nexus (ZK proofs), Bitcoin Core
-- **Storage** — Arweave (permanent), NAS (11TB), Starlink (connectivity)
-- **AI Trinity** — Claude (Navigator), Gemini (Architect), DeepSeek/phi4 (local execution)
+S4S uses a mix of local-first and decentralized services. This public protocol overview omits specific host locations, hardware inventories, storage and network configurations, and internal model assignments. Public token and governance disclosures remain in the sections above.
 
 ---
 
@@ -108,4 +104,4 @@ The S4S ecosystem operates on the principle that the most resilient systems mimi
 
 ---
 
-*Built in Waihi, New Zealand. Dirt on hands, stars in eyes.*
+*Built in Aotearoa New Zealand. Dirt on hands, stars in eyes.*
