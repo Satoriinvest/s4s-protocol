@@ -1,4 +1,4 @@
-# SATORI VISION — Navigator's Master Reference
+# Search4Satori Protocol — Public Vision
 *Last updated: 2026-06-21 | Source: all GDrive docs + direct conversation*
 
 ## The Mission
@@ -43,7 +43,6 @@ Tagline: "Dirt on hands, stars in eyes."
 - SatoriINSUR — insurance product (started)
 - SatoriHELPR — marine AI navigation (Water/Fire crossover)
 - SatoriTRAC — tracking product
-- Foundry Node: Ollama, DePIN nodes (AIOZ, Grass, Nexus, Bitcoin), Navigator AI
 - S4S token: Mainnet, 1B supply, Token-2022, multisig sovereign council
 
 ### 🌍 EARTH — SatoriINVEST
@@ -59,65 +58,9 @@ Tagline: "Dirt on hands, stars in eyes."
 
 ---
 
-## Side Projects
-- **Job Sorted Pro** (www.jobsorted.pro) — service/trades marketplace app
+## Technology and Operations
 
----
-
-## The Agentic Layer (Next Evolution)
-ElizaOS = autonomous execution layer across all spokes:
-- SatoriMEMORIES: agents find + buy collectibles, pay human fulfillment workers
-- SatoriTECH: auto-swap DePIN rewards → USDC → Kamino yield
-- SatoriREGEN: ecological and enterprise green-IT MRV evidence/credit-state workflows; proposed S4S incentives require an approved design (Earth-domain, Fire-powered via SatoriTECH)
-- SatoriFLOW: autonomous data trading on Ocean Protocol
-- SatoriINSIGHTS: agent monitors user tax events in real-time
-
----
-
-## Revenue Priority Sequence
-1. **SatoriINSIGHTS** — first to market, NZ crypto tax gap, building now on Replit
-2. **Job Sorted Pro** — service marketplace, active
-3. **Harmonic Navigator** — personal alignment app, built
-4. **SatoriMEMORIES** — collectibles + provenance, built
-5. **SatoriFLOW** — ocean data trading, built
-6. **SatoriREGEN** - Earth-domain MRV and environmental-credit-state rail, Fire-powered via SatoriTECH
-7. **SatoriINVEST** — long-term, asset-backed
-
----
-
-## Identity Context (from Sovereign Core doc)
-- **Human Design:** 
-- **Primary filter:** Sacral response (gut)
-- **Secondary filter:** Emotional clarity (wait for the wave)
-- **Methodology:** Subtractive Creation — remove interference, reveal signal
-- **Never say:** Grind, Hustle, Struggle, Hard
-- **Always say:** Flow, Calibration, Alignment, Frequency, Sovereignty
-
----
-
-## Tech Stack
-- **Chain:** Solana (S4S token, Jupiter swaps, Kamino yield)
-- **Storage:** Arweave (permanent), Shadow Drive (hot data)
-- **Agent framework:** ElizaOS (TypeScript, Web3-native)
-- **Local AI:** Ollama (DeepSeek-r1:14b, phi4:14b)
-- **Payment rail:** x402 (USDC on Base)
-- **Data marketplace:** Ocean Protocol
-- **Frontend:** React + Vite (SatoriINSIGHTS on Replit)
-
----
-
-## Website (search4satori.com — Wix)
-- Live, professional, covers all 5 spokes
-- SatoriCO links to coaching/consulting
-- All spokes represented with CTAs
-- **Gap:** No mention of S4S token, Harmonic Navigator app, SatoriINSIGHTS, or SatoriMEMORIES on homepage
-- **Gap:** SatoriTECH links back to SatoriCO page (wrong link — should go to SatoriTECH)
-- **Gap:** No Web3/token integration layer visible to visitors
-
-## GitHub
-- Public org: github.com/Satoriinvest (Search4SATORI)
-- Local repo: Satori-Protocol-Genesis at github.com/Search4satori/Satori-Protocol-Genesis (404 — may be private or deleted)
-- Local repos: ~/Satori_Foundry, ~/foundry/satori-alpha
+Implementation, hosting, provider, payment, and agent configuration are outside this public protocol overview.
 
 ## Token — MAINNET CONFIRMED
 - Mint: Dx7RCVwuXKHHmShzua6895Z8RWTiQSi1pabia4DGRB5D
