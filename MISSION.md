@@ -34,22 +34,14 @@ All authorities (mint, fee config, fee withdraw, metadata) transferred to Sovere
 - Linear vest: 48 months (~4,166,667 S4S/month)
 - Full vest: February 21, 2031
 
-## Hub-and-Spoke Architecture
+## Confirmed S4S Application Scope
 
-```
-         S4S PROTOCOL HUB
-              │
-  ┌─────┬─────┼─────┬─────┐
-  ▼     ▼     ▼     ▼     ▼
-WATER  WOOD  FIRE EARTH METAL
-FLOW  BUILD TECH INVEST   CO
-```
+| Component | Role |
+|---|---|
+| SatoriTECH | Shared control-plane and orchestration infrastructure |
+| SatoriBUILD | Project coordination and logistics |
+| Slipstream | Safety, invoicing, and operational project records |
+| SatoriREGEN | Earth-domain ecological and enterprise green-IT MRV evidence and credit-state workflows |
+| SatoriINSIGHTS | Tax processing and reconciliation |
 
-| Spoke / rail | Products / scope | Status |
-|-------|---------|--------|
-| SatoriFLOW (Water) | Marine app, SatoriHELPR, ocean data trading | Live |
-| SatoriBUILD (Wood) | Slipstream H&S app | Live |
-| SatoriTECH (Fire) | Harmonic Navigator, SatoriINSIGHTS; control and event infrastructure for SatoriREGEN | Live/Building |
-| SatoriREGEN (Earth-domain, Fire-powered) | Ecological and enterprise green-IT MRV evidence and credit-state rail | Spec |
-| SatoriINVEST (Earth) | Land vaults, BTC-backed RWA | Spec |
-| SatoriCO (Metal) | SatoriMEMORIES, protocol governance | Live |
+This scope records ownership and intended coordination, not verified live event delivery.
