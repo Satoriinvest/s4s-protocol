@@ -49,10 +49,19 @@ The S4S token is the circulatory system connecting five elemental product stream
 | 🌊 Water | SatoriFLOW | Marine health, ocean data, blue carbon | SatoriHELPR, Ocean Protocol trading |
 | 🌿 Wood | SatoriBUILD | Eco-construction, resilience, H&S | Slipstream safety app |
 | 🔥 Fire | SatoriTECH | Digital infrastructure, AI, DePIN | Harmonic Navigator, SatoriINSIGHTS; enabling infrastructure for SatoriREGEN |
-| 🌍 Earth | SatoriINVEST | Land vaults, conservation, RWA | BTC-backed terra vaults, SatoriREGEN |
+| 🌍 Earth | SatoriINVEST | Land vaults, conservation, RWA | BTC-backed terra vaults |
 | ⚙️ Metal | SatoriCO | Protocol governance, provenance | SatoriMEMORIES, coaching |
 
 SatoriREGEN is Earth-domain and Fire-powered: its product domain is ecological projects, MRV evidence, and environmental-credit state; SatoriTECH supplies the digital control-plane, event-routing, AI, and orchestration infrastructure. At the wider S4S level, Earth can include foundational assets and reserves such as BTC; SatoriREGEN does not own SatoriINVEST's real-estate or BTC-treasury functions. This taxonomy is not proof of credit integrity or deployed integrations.
+
+## Canonical sources and project updates
+
+- This repository owns S4S ecosystem policy and product taxonomy. `satori.json` is the machine-readable product registry; README, VISION, MISSION, and whitepaper text summarize it for people.
+- `Satoriinvest/s4s-shared/events/` owns the executable event schemas, validators, fixtures, and runtime. This repository does not define a competing event schema.
+- SatoriTECH rollout guidance governs approval and operation; it must refer to the shared contract rather than restate its payload shapes.
+- Product repositories own their app code, data, and app-specific requirements. They consume reviewed protocol and shared versions through pinned commits or releases and review PRs.
+- Propose upstream changes through PRs to the owning source. Do not directly push from an app Repl, and do not consume draft branches as approved dependencies.
+- `s4s-shared/s4s.config.ts` is a compatibility surface for shared constants, not a source of product ownership. Where token/vault values overlap with `satori.json`, report drift rather than changing copies independently.
 
 ---
 
@@ -81,7 +90,8 @@ SatoriREGEN is Earth-domain and Fire-powered: its product domain is ecological p
 | Harmonic Navigator | Live | Sovereign OS for personal alignment (astrology, Human Design, Gene Keys, Ayurveda) |
 | SatoriINSIGHTS | Building | Crypto tax reconciliation — NZ IRD, CARF compliance |
 | SatoriFLOW | Live | Marine & environmental data capture, Ocean Protocol |
-| SatoriREGEN | Spec | Earth-domain ecological and enterprise green-IT MRV/credit-state rail, Fire-powered via SatoriTECH |
+| SatoriHELPR | Live | Marine AI navigation and safety |
+| SatoriREGEN | Spec | Earth-domain ecological and enterprise green-IT MRV/credit-state rail; Fire-powered by SatoriTECH |
 | SatoriBUILD Slipstream | Live | Construction health & safety management |
 | [Job Sorted Pro](https://jobsorted.pro) | Live | Trades & services marketplace |
 
