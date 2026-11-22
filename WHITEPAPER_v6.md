@@ -144,9 +144,6 @@ Each spoke is architecturally decoupled — sovereign failure isolation ensures 
 - Addresses NZ insurance market failures (significant premium inflation 2024-2025)
 - Revenue: Premiums + PoV reward distribution in S4S
 
-### Side Projects
-**Job Sorted Pro** (jobsorted.pro) — Trades and services marketplace. Independent revenue stream outside the S4S hub.
-
 ---
 
 ## IV. Infrastructure
@@ -212,7 +209,6 @@ Public product commitments and delivery milestones are published after approval.
 | Website | search4satori.com |
 | GitHub | github.com/Satoriinvest |
 | SatoriMEMORIES | asset-manager-satoriinvest.replit.app |
-| Job Sorted Pro | jobsorted.pro |
 | Token (Solscan) | solscan.io/token/Dx7RCVwuXKHHmShzua6895Z8RWTiQSi1pabia4DGRB5D |
 
 ---
