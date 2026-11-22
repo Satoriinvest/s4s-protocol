@@ -34,42 +34,14 @@ All authorities (mint, fee config, fee withdraw, metadata) transferred to Sovere
 - Linear vest: 48 months (~4,166,667 S4S/month)
 - Full vest: February 21, 2031
 
-## Hub-and-Spoke Architecture
+## Confirmed S4S Application Scope
 
-```
-         S4S PROTOCOL HUB
-              │
-  ┌─────┬─────┼─────┬─────┐
-  ▼     ▼     ▼     ▼     ▼
-WATER  WOOD  FIRE EARTH METAL
-FLOW  BUILD TECH INVEST   CO
-```
+| Component | Role |
+|---|---|
+| SatoriTECH | Shared control-plane and orchestration infrastructure |
+| SatoriBUILD | Project coordination and logistics |
+| Slipstream | Safety, invoicing, and operational project records |
+| SatoriREGEN | Earth-domain ecological and enterprise green-IT MRV evidence and credit-state workflows |
+| SatoriINSIGHTS | Tax processing and reconciliation |
 
-| Spoke | Products | Status |
-|-------|---------|--------|
-| SatoriFLOW (Water) | Marine app, SatoriHELPR, ocean data trading | Live |
-| SatoriBUILD (Wood) | Slipstream H&S app | Live |
-| SatoriTECH (Fire) | Harmonic Navigator, SatoriINSIGHTS, SatoriREGEN | Live/Building |
-| SatoriINVEST (Earth) | Land vaults, BTC-backed RWA | Spec |
-| SatoriCO (Metal) | SatoriMEMORIES, protocol governance | Live |
-
-## DePIN Infrastructure
-
-- AIOZ: Video CDN node
-- Grass: Bandwidth sharing node
-- Nexus: ZK proof computation
-- Bitcoin Core: Full node
-
-## Operational Payment Addresses
-
-| Address | Network | Purpose |
-|---------|---------|---------|
-| `0xeB424380753Ec763106E2F26A729E60EB1263fF3` | Base/EVM | x402 micro-payment rail |
-
-## Disambiguation Rules
-
-When element names appear in a query:
-1. **Default:** S4S vault/token context
-2. **Physical indicators** (build/construct/material): SatoriBUILD context
-3. **Marine indicators** (ocean/boat/vessel): SatoriFLOW context
-4. **Healing indicators** (frequency/TCM/Ayurveda): Five Elements healing context
+This scope records ownership and intended coordination, not verified live event delivery.

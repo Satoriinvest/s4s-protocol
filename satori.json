@@ -1,10 +1,10 @@
 {
-  "version": "2.2",
-  "last_updated": "2026-06-21",
+  "version": "2.3",
+  "last_updated": "2026-11-23",
   "identity": "Search4Satori (S4S)",
-  "mission": "Decentralized Physical Infrastructure Network & Regenerative Finance ecosystem bridging digital sovereignty and physical alchemy",
+  "mission": "S4S is a token and governance protocol with a public application scope of SatoriBUILD, Slipstream, SatoriREGEN, and SatoriINSIGHTS, supported by SatoriTECH infrastructure.",
   "s4s_token": {
-    "network": "Solana mainnet-beta",
+    "network": "solana-mainnet-beta",
     "mint": "Dx7RCVwuXKHHmShzua6895Z8RWTiQSi1pabia4DGRB5D",
     "standard": "Token-2022",
     "transfer_fee_pct": 1,
@@ -26,7 +26,7 @@
       "address": "ogCuniVGfMcpDUoFW6cAnKit9PymgCF9gJt5W3hvgLi",
       "allocation": 200000000,
       "pct": 20,
-      "role": "Founder/Team \u2014 12mo cliff, 48mo vest"
+      "role": "Founder/Team — 12mo cliff, 48mo vest"
     },
     "earth": {
       "address": "54nrK3Hnhb5RZMWciMBzt6MFF1ciRGJc4qDcHdZ1HaLU",
@@ -38,7 +38,7 @@
       "address": "ECgFCuEWcuUJwFxaFEGaoABBhsFZMr7LuACwtKtzRXy3",
       "allocation": 150000000,
       "pct": 15,
-      "role": "Liquidity \u2014 100% unlocked at launch"
+      "role": "Liquidity — 100% unlocked at launch"
     },
     "fire": {
       "address": "9sesX5oJHU8qDU85yByTmRjvk3r6z9t5xAxd2UZMBqLb",
@@ -49,90 +49,42 @@
     "authority": {
       "address": "r5Ec9TDV5qwDh9AoNtqxq7fyqiH6sKbJJfRUpdVdpuq",
       "role": "Token mint authority (Squads multisig)"
-    },
-    "forge_evm": {
-      "address": "0xeB424380753Ec763106E2F26A729E60EB1263fF3",
-      "role": "Base mainnet EVM"
     }
   },
   "products": {
-    "harmonic_navigator": {
-      "status": "live",
-      "element": "fire",
-      "description": "Sovereign OS for personal alignment \u2014 astrology, Gene Keys, Human Design, Ayurveda, TCM"
-    },
-    "satori_insights": {
-      "status": "building",
-      "element": "fire",
-      "description": "Crypto tax reconciliation \u2014 NZ IRD, CARF, global compliance",
-      "platform": "Replit"
-    },
-    "satori_memories": {
-      "status": "live",
-      "element": "metal",
-      "description": "Physical collectibles + Arweave provenance minting"
-    },
-    "satori_flow_app": {
-      "status": "live",
-      "element": "water",
-      "description": "Environmental/weather/ocean data capture, Ocean Protocol trading"
-    },
-    "satori_helpr": {
-      "status": "live",
-      "element": "water",
-      "description": "Marine AI navigation, sustainable fishing, safety"
+    "satori_build_app": {
+      "name": "SatoriBUILD",
+      "description": "Project planning, work packages, schedules, assignments, and logistics",
+      "status": "building"
     },
     "satori_build_slipstream": {
       "status": "live",
       "element": "wood",
-      "description": "Health & safety app for construction/trades"
+      "description": "Worksite safety, invoicing, and operational project records for construction and trades"
     },
     "satori_regen": {
       "status": "spec",
-      "element": "fire",
-      "description": "Enterprise green IT incentive framework, S4S micro-rewards"
-    },
-    "satori_insur": {
-      "status": "started",
       "element": "earth",
-      "description": "Insurance product"
+      "description": "Earth-domain ecological and enterprise green-IT MRV and credit-state rail; Fire-powered by SatoriTECH",
+      "powered_by": {
+        "product": "SatoriTECH",
+        "element": "fire"
+      }
     },
-    "satori_trac": {
-      "status": "started",
+    "satori_insights": {
+      "status": "building",
       "element": "fire",
-      "description": "Tracking product"
-    },
-    "job_sorted_pro": {
-      "status": "live",
-      "element": "side",
-      "description": "Service/trades marketplace \u2014 jobsorted.pro"
+      "description": "Crypto tax reconciliation — NZ IRD, CARF, global compliance"
     }
-  },
-  "depin_nodes": {
-    "bitcoin_core": {
-      "status": "active",
-      "type": "bitcoin_core"
-    },
-    "nexus_prover": {
-      "status": "active",
-      "type": "nexus_prover"
-    },
-    "aioz": {
-      "status": "active",
-      "type": "aioz"
-    },
-    "grass": {
-      "status": "active",
-      "type": "grass"
-    }
-  },
-  "payment_rails": {
-    "solana": "primary on-chain payments",
-    "base_evm": "0xeB424380753Ec763106E2F26A729E60EB1263fF3",
-    "stripe": "fiat subscription billing"
   },
   "governance": {
     "multisig": "r5Ec9TDV5qwDh9AoNtqxq7fyqiH6sKbJJfRUpdVdpuq",
     "structure": "Squads 2-of-4"
+  },
+  "components": {
+    "satori_tech": {
+      "name": "SatoriTECH",
+      "role": "Shared control-plane, event-routing, AI, and orchestration infrastructure"
+    }
   }
 }

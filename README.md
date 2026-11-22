@@ -8,9 +8,9 @@
 
 ## What is S4S?
 
-Search4Satori is a **100-year sovereign financial architecture** — a decentralised hub-and-spoke ecosystem bridging digital capital with real-world physical regeneration, marine sovereignty, and ecological stewardship.
+Search4Satori is a Solana token and governance protocol with a focused public application scope: SatoriBUILD, Slipstream, SatoriREGEN, and SatoriINSIGHTS, supported by SatoriTECH infrastructure.
 
-The S4S token is the circulatory system connecting five elemental product streams, each solving a real problem while feeding back into the shared protocol ledger.
+This scope describes ownership and intended coordination; it does not claim that end-to-end delivery is live or verified.
 
 ---
 
@@ -30,27 +30,17 @@ The S4S token is the circulatory system connecting five elemental product stream
 
 ---
 
-## 🏗️ Hub-and-Spoke Architecture
+## Confirmed S4S Scope
 
-```
-              S4S PROTOCOL HUB
-         (100-year sovereign ledger)
-                    │
-    ┌───────┬───────┼───────┬───────┐
-    ▼       ▼       ▼       ▼       ▼
-  WATER   WOOD    FIRE   EARTH  METAL
-  FLOW   BUILD   TECH   INVEST   CO
-```
+| Component | Role |
+|---|---|
+| SatoriTECH | Shared control plane, event routing, AI, and orchestration infrastructure |
+| SatoriBUILD | Project planning, work packages, schedules, assignments, and logistics |
+| Slipstream | Worksite safety, invoicing, and operational project records |
+| SatoriREGEN | Earth-domain ecological and enterprise green-IT MRV evidence and credit-state workflows |
+| SatoriINSIGHTS | Tax analysis and reconciliation |
 
-### Five Elemental Streams
-
-| Element | Spoke | Focus | Products |
-|---------|-------|-------|---------|
-| 🌊 Water | SatoriFLOW | Marine health, ocean data, blue carbon | SatoriHELPR, Ocean Protocol trading |
-| 🌿 Wood | SatoriBUILD | Eco-construction, resilience, H&S | Slipstream safety app |
-| 🔥 Fire | SatoriTECH | Digital infrastructure, AI, DePIN | Harmonic Navigator, SatoriINSIGHTS, SatoriREGEN |
-| 🌍 Earth | SatoriINVEST | Land vaults, conservation, RWA | BTC-backed terra vaults |
-| ⚙️ Metal | SatoriCO | Protocol governance, provenance | SatoriMEMORIES, coaching |
+This scope is not a claim of deployed cross-app delivery.
 
 ---
 
@@ -71,28 +61,11 @@ The S4S token is the circulatory system connecting five elemental product stream
 
 ---
 
-## 🌐 Ecosystem Products
-
-| Product | Status | Description |
-|---------|--------|-------------|
-| [SatoriMEMORIES](https://asset-manager-satoriinvest.replit.app) | Live | Physical collectibles + Arweave provenance minting |
-| Harmonic Navigator | Live | Sovereign OS for personal alignment (astrology, Human Design, Gene Keys, Ayurveda) |
-| SatoriINSIGHTS | Building | Crypto tax reconciliation — NZ IRD, CARF compliance |
-| SatoriFLOW | Live | Marine & environmental data capture, Ocean Protocol |
-| SatoriHELPR | Live | Marine AI navigation and safety |
-| SatoriBUILD Slipstream | Live | Construction health & safety management |
-| SatoriREGEN | Spec | Enterprise green IT decentralised incentive framework |
-| [Job Sorted Pro](https://jobsorted.pro) | Live | Trades & services marketplace |
-
 ---
 
 ## 🔧 Infrastructure
 
-Built on sovereign, local-first infrastructure:
-- **I9Rig** — Waihi, New Zealand. i9-10900K, 62GB RAM, Ubuntu 24.04
-- **DePIN Nodes** — AIOZ (CDN), Grass (bandwidth), Nexus (ZK proofs), Bitcoin Core
-- **Storage** — Arweave (permanent), NAS (11TB), Starlink (connectivity)
-- **AI Trinity** — Claude (Navigator), Gemini (Architect), DeepSeek/phi4 (local execution)
+S4S uses a mix of local-first and decentralized services. This public protocol overview omits specific host locations, hardware inventories, storage and network configurations, and internal model assignments. Public token and governance disclosures remain in the sections above.
 
 ---
 
@@ -106,4 +79,4 @@ The S4S ecosystem operates on the principle that the most resilient systems mimi
 
 ---
 
-*Built in Waihi, New Zealand. Dirt on hands, stars in eyes.*
+*Built in Aotearoa New Zealand. Dirt on hands, stars in eyes.*
