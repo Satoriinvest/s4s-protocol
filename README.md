@@ -8,9 +8,9 @@
 
 ## What is S4S?
 
-Search4Satori is a **100-year sovereign financial architecture** — a decentralised hub-and-spoke ecosystem bridging digital capital with real-world physical regeneration, marine sovereignty, and ecological stewardship.
+Search4Satori is a Solana token and governance protocol with a focused public application scope: SatoriBUILD, Slipstream, SatoriREGEN, and SatoriINSIGHTS, supported by SatoriTECH infrastructure.
 
-The S4S token is the circulatory system connecting five elemental product streams, each solving a real problem while feeding back into the shared protocol ledger.
+This scope describes ownership and intended coordination; it does not claim that end-to-end delivery is live or verified.
 
 ---
 
@@ -30,29 +30,17 @@ The S4S token is the circulatory system connecting five elemental product stream
 
 ---
 
-## 🏗️ Hub-and-Spoke Architecture
+## Confirmed S4S Scope
 
-```
-              S4S PROTOCOL HUB
-         (100-year sovereign ledger)
-                    │
-    ┌───────┬───────┼───────┬───────┐
-    ▼       ▼       ▼       ▼       ▼
-  WATER   WOOD    FIRE   EARTH  METAL
-  FLOW   BUILD   TECH   INVEST   CO
-```
+| Component | Role |
+|---|---|
+| SatoriTECH | Shared control plane, event routing, AI, and orchestration infrastructure |
+| SatoriBUILD | Project planning, work packages, schedules, assignments, and logistics |
+| Slipstream | Worksite safety, invoicing, and operational project records |
+| SatoriREGEN | Earth-domain ecological and enterprise green-IT MRV evidence and credit-state workflows |
+| SatoriINSIGHTS | Tax analysis and reconciliation |
 
-### Five Elemental Streams
-
-| Element | Spoke | Focus | Products |
-|---------|-------|-------|---------|
-| 🌊 Water | SatoriFLOW | Marine health, ocean data, blue carbon | SatoriHELPR, Ocean Protocol trading |
-| 🌿 Wood | SatoriBUILD | Eco-construction, resilience, H&S | Slipstream safety app |
-| 🔥 Fire | SatoriTECH | Digital infrastructure, AI, DePIN | Harmonic Navigator, SatoriINSIGHTS; enabling infrastructure for SatoriREGEN |
-| 🌍 Earth | SatoriINVEST | Land vaults, conservation, RWA | BTC-backed terra vaults |
-| ⚙️ Metal | SatoriCO | Protocol governance, provenance | SatoriMEMORIES, coaching |
-
-SatoriREGEN is Earth-domain and Fire-powered: its product domain is ecological projects, MRV evidence, and environmental-credit state; SatoriTECH supplies the digital control-plane, event-routing, AI, and orchestration infrastructure. At the wider S4S level, Earth can include foundational assets and reserves such as BTC; SatoriREGEN does not own SatoriINVEST's real-estate or BTC-treasury functions. This taxonomy is not proof of credit integrity or deployed integrations.
+This scope is not a claim of deployed cross-app delivery.
 
 ---
 
@@ -72,18 +60,6 @@ SatoriREGEN is Earth-domain and Fire-powered: its product domain is ecological p
 - **Full vest:** February 2031
 
 ---
-
-## 🌐 Ecosystem Products
-
-| Product | Status | Description |
-|---------|--------|-------------|
-| [SatoriMEMORIES](https://asset-manager-satoriinvest.replit.app) | Live | Physical collectibles + Arweave provenance minting |
-| Harmonic Navigator | Live | Sovereign OS for personal alignment (astrology, Human Design, Gene Keys, Ayurveda) |
-| SatoriINSIGHTS | Building | Crypto tax reconciliation — NZ IRD, CARF compliance |
-| SatoriFLOW | Live | Marine & environmental data capture, Ocean Protocol |
-| SatoriHELPR | Live | Marine AI navigation and safety |
-| SatoriREGEN | Spec | Earth-domain ecological and enterprise green-IT MRV/credit-state rail; Fire-powered by SatoriTECH |
-| SatoriBUILD Slipstream | Live | Construction health & safety management |
 
 ---
 
