@@ -53,24 +53,3 @@ FLOW  BUILD TECH INVEST   CO
 | SatoriREGEN (Earth-domain, Fire-powered) | Ecological and enterprise green-IT MRV evidence and credit-state rail | Spec |
 | SatoriINVEST (Earth) | Land vaults, BTC-backed RWA | Spec |
 | SatoriCO (Metal) | SatoriMEMORIES, protocol governance | Live |
-
-## DePIN Infrastructure
-
-- AIOZ: Video CDN node
-- Grass: Bandwidth sharing node
-- Nexus: ZK proof computation
-- Bitcoin Core: Full node
-
-## Operational Payment Addresses
-
-| Address | Network | Purpose |
-|---------|---------|---------|
-| `0xeB424380753Ec763106E2F26A729E60EB1263fF3` | Base/EVM | x402 micro-payment rail |
-
-## Disambiguation Rules
-
-When element names appear in a query:
-1. **Default:** S4S vault/token context
-2. **Physical indicators** (build/construct/material): SatoriBUILD context
-3. **Marine indicators** (ocean/boat/vessel): SatoriFLOW context
-4. **Healing indicators** (frequency/TCM/Ayurveda): Five Elements healing context
