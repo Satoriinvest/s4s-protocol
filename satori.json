@@ -49,10 +49,6 @@
     "authority": {
       "address": "r5Ec9TDV5qwDh9AoNtqxq7fyqiH6sKbJJfRUpdVdpuq",
       "role": "Token mint authority (Squads multisig)"
-    },
-    "forge_evm": {
-      "address": "0xeB424380753Ec763106E2F26A729E60EB1263fF3",
-      "role": "Base mainnet EVM"
     }
   },
   "products": {
@@ -104,35 +100,7 @@
       "status": "started",
       "element": "fire",
       "description": "Tracking product"
-    },
-    "job_sorted_pro": {
-      "status": "live",
-      "element": "side",
-      "description": "Service/trades marketplace — jobsorted.pro"
     }
-  },
-  "depin_nodes": {
-    "bitcoin_core": {
-      "status": "active",
-      "type": "bitcoin_core"
-    },
-    "nexus_prover": {
-      "status": "active",
-      "type": "nexus_prover"
-    },
-    "aioz": {
-      "status": "active",
-      "type": "aioz"
-    },
-    "grass": {
-      "status": "active",
-      "type": "grass"
-    }
-  },
-  "payment_rails": {
-    "solana": "primary on-chain payments",
-    "base_evm": "0xeB424380753Ec763106E2F26A729E60EB1263fF3",
-    "stripe": "fiat subscription billing"
   },
   "governance": {
     "multisig": "r5Ec9TDV5qwDh9AoNtqxq7fyqiH6sKbJJfRUpdVdpuq",
