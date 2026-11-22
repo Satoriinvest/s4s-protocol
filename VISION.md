@@ -40,7 +40,6 @@ Tagline: "Dirt on hands, stars in eyes."
 **Built/Active:**
 - Harmonic Navigator app — sovereign OS for personal alignment (astrology, Gene Keys, Human Design, Ayurveda, TCM five elements)
 - SatoriINSIGHTS — crypto tax reconciliation (in build on Replit)
-- SatoriREGEN — decentralized green IT incentive framework
 - SatoriINSUR — insurance product (started)
 - SatoriHELPR — marine AI navigation (Water/Fire crossover)
 - SatoriTRAC — tracking product
@@ -50,6 +49,7 @@ Tagline: "Dirt on hands, stars in eyes."
 ### 🌍 EARTH — SatoriINVEST
 **Built:** Tokenized RWA vaults concept
 **Future:** Conservation land acquisition, food forests, BTC-backed terra vaults
+**Earth-domain rail:** SatoriREGEN - ecological and enterprise green-IT MRV evidence and credit-state workflows; Fire-powered by SatoriTECH.
 **Physical:** Property investments (Copeland Rd, Pembroke St), 3-stage property plan
 
 ### ⚙️ METAL — SatoriCO / SatoriMEMORIES
@@ -68,7 +68,7 @@ Tagline: "Dirt on hands, stars in eyes."
 ElizaOS = autonomous execution layer across all spokes:
 - SatoriMEMORIES: agents find + buy collectibles, pay human fulfillment workers
 - SatoriTECH: auto-swap DePIN rewards → USDC → Kamino yield
-- SatoriREGEN: verify enterprise green IT, issue S4S micro-rewards
+- SatoriREGEN: ecological and enterprise green-IT MRV evidence/credit-state workflows; proposed S4S incentives require an approved design (Earth-domain, Fire-powered via SatoriTECH)
 - SatoriFLOW: autonomous data trading on Ocean Protocol
 - SatoriINSIGHTS: agent monitors user tax events in real-time
 
@@ -80,7 +80,7 @@ ElizaOS = autonomous execution layer across all spokes:
 3. **Harmonic Navigator** — personal alignment app, built
 4. **SatoriMEMORIES** — collectibles + provenance, built
 5. **SatoriFLOW** — ocean data trading, built
-6. **SatoriREGEN** — enterprise B2B, strong business case
+6. **SatoriREGEN** - Earth-domain MRV and environmental-credit-state rail, Fire-powered via SatoriTECH
 7. **SatoriINVEST** — long-term, asset-backed
 
 ---
