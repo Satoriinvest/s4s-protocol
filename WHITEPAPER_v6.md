@@ -12,8 +12,8 @@ The Search4Satori (S4S) ecosystem is a sovereign, modular financial and technolo
 - S4S token: live on Solana mainnet-beta
 - Active products: 7 live, 2 in development
 - Infrastructure: sovereign compute node, DePIN nodes generating yield
-- GitHub: github.com/Satoriinvest (all products versioned)
-- Revenue: multiple streams active across Stripe, Solana payments, and data marketplaces
+- Public source: this repository's S4S token and application-scope disclosures
+- Public scope: S4S token, five allocation vaults, governance, and confirmed application roles
 
 ---
 
@@ -87,27 +87,9 @@ S4S uses local-first and decentralized services to support its ecosystem. Specif
 
 ---
 
-## V. Revenue Flow Architecture
+## V. Token Fee Disclosure
 
-```
-PRODUCT REVENUE
-      │
-      ├─ Stripe subscriptions → Operating expenses
-      │
-      ├─ Solana payments → USDC → Yield (Kamino)
-      │
-      ├─ SatoriMEMORIES sealing fees → 5 vaults (elemental split)
-      │
-      ├─ DePIN rewards → USDC/JitoSOL → Kamino collateral
-      │
-      └─ S4S transfer fees (1%) → Multisig → Protocol treasury
-```
-
-**Liquidity flywheel:**
-1. Product revenue funds S4S liquidity pool (Raydium)
-2. Token liquidity enables S4S payments across all products
-3. S4S transfer fees accumulate in multisig → fund protocol operations
-4. DePIN yield compounds via Kamino → operational capital
+The S4S token parameters disclose a 1% transfer fee. Token supply, vault allocations, vesting, and governance are documented in the sections above. This paper does not publish unrelated product revenue models, third-party payment services, or operational wallet routing.
 
 ---
 
