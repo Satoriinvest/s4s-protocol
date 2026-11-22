@@ -54,15 +54,6 @@ The S4S token is the circulatory system connecting five elemental product stream
 
 SatoriREGEN is Earth-domain and Fire-powered: its product domain is ecological projects, MRV evidence, and environmental-credit state; SatoriTECH supplies the digital control-plane, event-routing, AI, and orchestration infrastructure. At the wider S4S level, Earth can include foundational assets and reserves such as BTC; SatoriREGEN does not own SatoriINVEST's real-estate or BTC-treasury functions. This taxonomy is not proof of credit integrity or deployed integrations.
 
-## Canonical sources and project updates
-
-- This repository owns S4S ecosystem policy and product taxonomy. `satori.json` is the machine-readable product registry; README, VISION, MISSION, and whitepaper text summarize it for people.
-- `Satoriinvest/s4s-shared/events/` owns the executable event schemas, validators, fixtures, and runtime. This repository does not define a competing event schema.
-- SatoriTECH rollout guidance governs approval and operation; it must refer to the shared contract rather than restate its payload shapes.
-- Product repositories own their app code, data, and app-specific requirements. They consume reviewed protocol and shared versions through pinned commits or releases and review PRs.
-- Propose upstream changes through PRs to the owning source. Do not directly push from an app Repl, and do not consume draft branches as approved dependencies.
-- `s4s-shared/s4s.config.ts` is a compatibility surface for shared constants, not a source of product ownership. Where token/vault values overlap with `satori.json`, report drift rather than changing copies independently.
-
 ---
 
 ## 🪣 Five Vaults (Mainnet)
