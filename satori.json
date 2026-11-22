@@ -4,7 +4,7 @@
   "identity": "Search4Satori (S4S)",
   "mission": "Decentralized Physical Infrastructure Network & Regenerative Finance ecosystem bridging digital sovereignty and physical alchemy",
   "s4s_token": {
-    "network": "Solana mainnet-beta",
+    "network": "solana-mainnet-beta",
     "mint": "Dx7RCVwuXKHHmShzua6895Z8RWTiQSi1pabia4DGRB5D",
     "standard": "Token-2022",
     "transfer_fee_pct": 1,
