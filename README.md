@@ -83,7 +83,6 @@ SatoriREGEN is Earth-domain and Fire-powered: its product domain is ecological p
 | SatoriFLOW | Live | Marine & environmental data capture, Ocean Protocol |
 | SatoriREGEN | Spec | Earth-domain ecological and enterprise green-IT MRV/credit-state rail, Fire-powered via SatoriTECH |
 | SatoriBUILD Slipstream | Live | Construction health & safety management |
-| SatoriREGEN | Spec | Enterprise green IT decentralised incentive framework |
 | [Job Sorted Pro](https://jobsorted.pro) | Live | Trades & services marketplace |
 
 ---
