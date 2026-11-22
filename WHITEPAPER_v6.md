@@ -59,90 +59,25 @@ The Search4Satori (S4S) ecosystem is a sovereign, modular financial and technolo
 
 ---
 
-## II. Hub-and-Spoke Architecture
+## II. Confirmed S4S Scope
 
-```
-              S4S PROTOCOL HUB
-         (Solana mainnet — immutable ledger)
-                    │
-    ┌───────┬───────┼───────┬───────┐
-    ▼       ▼       ▼       ▼       ▼
-  WATER   WOOD    FIRE   EARTH  METAL
-  FLOW   BUILD   TECH   INVEST   CO
-```
+The five elemental vaults define token allocation, not separate application ownership. The confirmed public application scope is SatoriTECH infrastructure, SatoriBUILD, Slipstream, SatoriREGEN, and SatoriINSIGHTS.
 
-Each spoke is architecturally decoupled — sovereign failure isolation ensures no single product failure affects the protocol or other spokes. The S4S token is the connective tissue: every product interaction triggers value flow back through the vault system.
+This scope statement does not claim that end-to-end event delivery is deployed or verified.
 
 ---
 
-## III. Product Suite & Revenue Models
+## III. Confirmed Application Roles
 
-### 🔥 SatoriTECH (Fire Element)
+| Component | Public role |
+|---|---|
+| SatoriTECH | Shared control-plane, event routing, AI, and orchestration infrastructure |
+| SatoriBUILD | Project planning and coordination |
+| Slipstream | Worksite safety, invoicing, and operational project records |
+| SatoriREGEN | Earth-domain ecological and enterprise green-IT MRV evidence and credit-state workflows |
+| SatoriINSIGHTS | Tax processing and reconciliation |
 
-**Harmonic Navigator** | Status: Live
-- Personal alignment OS synthesising 6 wisdom traditions: Western Astrology, Gene Keys, Human Design, Ayurveda, Five Elements/TCM, and live planetary transits
-- AI engine: Anthropic Claude with deterministic astronomical calculations
-- Revenue model: Freemium + Sovereign tier subscription via Stripe
-  - Free tier: Daily resonance profile, basic birth chart, Yin-Yang matrix
-  - Sovereign tier: Full AI cross-synthesis, Gene Keys Activation Sequence, full Human Design BodyGraph, Data Vault, Echo Chamber, meal/mood tracking
-- Data policy: PostgreSQL session data, no third-party sharing
-- Solana wallet: on-chain profile hashing (Shadow Drive integration planned)
-
-**SatoriINSIGHTS** | Status: Building
-- Crypto tax reconciliation SaaS for NZ IRD compliance, CARF, and global frameworks
-- Features: bank CSV ↔ exchange reconciliation, NZD cost basis, ACB pooling for DeFi, residency tracking (183-day/325-day rules), PPOA monitoring
-- Revenue model: Subscription SaaS + per-report fee
-- Data policy: session-only retention — raw transaction data never stored
-- Target markets: NZ retail crypto investors, global CARF-affected users, digital nomads and MNEs
-
-**SatoriREGEN** | Status: Development
-- Element: Earth-domain; Fire-powered by SatoriTECH.
-- Proposed environmental MRV evidence and credit-state workflows for ecological and enterprise green-IT projects.
-- Any methodology or standards alignment, including the EU Code of Conduct on Data Centre Energy Efficiency or Carbon Aware Software practices, requires separate definition and evidence review; this whitepaper does not claim certification or verified outcomes.
-- Any S4S incentives or micro-rewards remain proposed and require a separately approved design; this taxonomy does not claim that rewards or environmental credits have been issued.
-- Revenue: B2B SaaS licensing + S4S reward distribution
-
-### 🌊 SatoriFLOW (Water Element)
-
-**SatoriFLOW App** | Status: Live
-- Marine and environmental data capture platform
-- Ocean Protocol integration for data marketplace trading
-- Revenue: Data marketplace transaction fees + subscription
-- Hardware: AMICA sensor nodes (marine edge compute, planned)
-
-**SatoriHELPR** | Status: Live
-- Marine AI navigation, sustainable fishing optimisation, safety alerts
-- Revenue: Subscription across professional, recreational, and research sectors
-
-### 🌿 SatoriBUILD (Wood Element)
-
-**Slipstream H&S App** | Status: Live
-- Construction and trades health & safety management
-- Revenue: B2B SaaS per-site/per-user licensing
-
-### ⚙️ SatoriCO (Metal Element)
-
-**SatoriMEMORIES** | Status: Live
-- Physical collectibles marketplace with Arweave provenance minting
-- Flow: item sourced → authenticated → sealed → Arweave NFT minted → delivered
-- Revenue: Sealing fee distributed across 5 S4S vaults (Wood 40% / Metal 20% / Earth 15% / Water 15% / Fire 10%)
-- Payment: Solana (SOL/USDC) + S4S token
-- Agentic roadmap: autonomous agents browse marketplaces, flag items, trigger verified human fulfilment
-
-### 🌍 SatoriINVEST (Earth Element)
-
-**Status:** Spec/Early Development
-- Conservation land acquisition, food forests, BTC-backed Real World Asset (RWA) vaults
-- Tokenised land stewardship with S4S staking mechanics
-- Revenue: Conservation credit yield + land appreciation
-
-### SatoriINSUR (Cross-Element Spoke)
-
-**Status:** Business plan complete, development pending
-- Proof of Vitality (PoV) insurance model — architecturally decoupled spoke
-- Replaces actuarial age-banding with health-verified premiums
-- Addresses NZ insurance market failures (significant premium inflation 2024-2025)
-- Revenue: Premiums + PoV reward distribution in S4S
+Revenue models, delivery status, and cross-app event flows require separate approval and verification; this paper does not assert that they are live.
 
 ---
 
@@ -207,8 +142,6 @@ Public product commitments and delivery milestones are published after approval.
 | Resource | URL |
 |---------|-----|
 | Website | search4satori.com |
-| GitHub | github.com/Satoriinvest |
-| SatoriMEMORIES | asset-manager-satoriinvest.replit.app |
 | Token (Solscan) | solscan.io/token/Dx7RCVwuXKHHmShzua6895Z8RWTiQSi1pabia4DGRB5D |
 
 ---
@@ -216,4 +149,4 @@ Public product commitments and delivery milestones are published after approval.
 *All on-chain addresses verified against Solana mainnet-beta at time of writing.*
 *This document does not constitute legal or financial advice. Tax and legal considerations require review by qualified advisors.*
 
-*Search4Satori Ecosystem — Version 6.0 — June 2026*
+*Search4Satori Protocol — Public Scope Edition*
