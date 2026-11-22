@@ -45,11 +45,12 @@ WATER  WOOD  FIRE EARTH METAL
 FLOW  BUILD TECH INVEST   CO
 ```
 
-| Spoke | Products | Status |
+| Spoke / rail | Products / scope | Status |
 |-------|---------|--------|
 | SatoriFLOW (Water) | Marine app, SatoriHELPR, ocean data trading | Live |
 | SatoriBUILD (Wood) | Slipstream H&S app | Live |
-| SatoriTECH (Fire) | Harmonic Navigator, SatoriINSIGHTS, SatoriREGEN | Live/Building |
+| SatoriTECH (Fire) | Harmonic Navigator, SatoriINSIGHTS; control and event infrastructure for SatoriREGEN | Live/Building |
+| SatoriREGEN (Earth-domain, Fire-powered) | Ecological and enterprise green-IT MRV evidence and credit-state rail | Spec |
 | SatoriINVEST (Earth) | Land vaults, BTC-backed RWA | Spec |
 | SatoriCO (Metal) | SatoriMEMORIES, protocol governance | Live |
 
