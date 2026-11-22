@@ -151,34 +151,7 @@ Each spoke is architecturally decoupled — sovereign failure isolation ensures 
 
 ## IV. Infrastructure
 
-### Sovereign Compute Node
-- Local compute: high-performance workstation running Ubuntu 24.04
-- Connectivity: Starlink (primary)
-- Local AI: Ollama (deepseek-r1:14b, phi4:14b)
-- Storage: NAS operational, GDrive mirror/docs
-- Permanent storage: Arweave (provenance, token metadata, whitepapers)
-- Planned: additional edge nodes (marine deployment)
-
-### DePIN Nodes (Active Yield)
-| Node | Type | Status |
-|------|------|--------|
-| AIOZ | Video CDN | Active |
-| Grass | Bandwidth sharing | Active |
-| Nexus | ZK proof computation | Active |
-| Bitcoin Core | Full node | Active |
-
-### Payment Rails
-- Solana: primary on-chain payments (SOL, USDC, S4S)
-- Base/EVM: x402 micro-payment rail
-- Stripe: fiat subscription billing
-
-### Cognitive Trinity (AI Operations)
-| Role | Model | Function |
-|------|-------|---------|
-| Navigator | Claude (Anthropic) | Strategy, security, audit |
-| Architect | Gemini | System DNA, documentation |
-| Mechanic | phi4:14b (local) | Automation, scripts |
-| Sentinel | deepseek-r1:14b (local) | Research, code review |
+S4S uses local-first and decentralized services to support its ecosystem. Specific host locations, hardware, network and storage configurations, and internal model assignments are omitted from this public token-launch paper. Public token and governance disclosures remain available for verification.
 
 ---
 
@@ -206,63 +179,9 @@ PRODUCT REVENUE
 
 ---
 
-## VI. ⚠️ Tax & Legal Considerations
-### *FOR ADVISOR REVIEW ONLY — NOT LEGAL OR TAX ADVICE*
-### *Issues flagged for qualified legal and tax counsel*
+## VI. Legal and Tax Notice
 
-### S4S Token Classification
-- **Utility token argument:** S4S grants access to ecosystem services, discounts, and governance
-- **Payment token argument:** S4S accepted as payment across products
-- **Security token risk:** Vesting schedule on Metal vault may be characterised as equity-like in some jurisdictions
-- **REVIEW REQUIRED:** Classification determines GST treatment, income vs capital, and whether token issuance is a taxable event
-
-### Transfer Fee (1%) Tax Treatment
-- 1% auto-collected on every S4S transfer to Squads multisig
-- **Issue:** Each fee collection may be a taxable receipt in the period received
-- **Issue:** FMV methodology needed if fees received as S4S tokens
-- **REVIEW REQUIRED:** Protocol treasury legal structure — partnership, company, or trust treatment
-
-### Metal Vault Vesting
-- 200M S4S vesting over 60 months (12-month cliff)
-- **Issue:** Each unlock event may constitute a taxable income event at FMV on unlock date
-- **Issue:** Valuation methodology required where no established market price exists
-- **REVIEW REQUIRED:** Formal vesting agreement documentation for tax purposes
-
-### SatoriMEMORIES Sealing Fees
-- Fees distributed across 5 vaults as S4S tokens
-- **Issue:** GST treatment on digital services — jurisdiction of supply matters
-- **Issue:** Physical goods component (shipping) vs digital service (Arweave minting) — different treatment
-- **REVIEW REQUIRED:** Vault attribution and entity structure
-
-### Stripe Subscription Revenue
-- Subscription fees from Harmonic Navigator and SatoriINSIGHTS
-- Standard income treatment: assessable in year received
-- GST: registration may be required depending on turnover threshold
-- Overseas customers: exported services may qualify for zero-rating
-- **Generally straightforward SaaS treatment**
-
-### DePIN Node Rewards
-- Tokens earned from AIOZ, Grass, Nexus participation
-- **Issue:** Income (taxed at FMV when received) vs capital (taxed on disposal)
-- General position in most jurisdictions: network rewards are income when received
-- **REVIEW REQUIRED:** DePIN classification vs mining vs staking
-
-### Arweave Storage Costs
-- AR tokens used for permanent storage
-- Generally deductible as business expense at FMV of AR at time of use
-- **Issue:** AR token acquisition is a capital event — track cost basis separately
-
-### Ocean Protocol Data Sales
-- OCEAN tokens received for data marketplace transactions
-- **Issue:** Income recognised at FMV of OCEAN tokens when received
-- **Issue:** Data privacy obligations — confirm no personal data in datasets sold
-
-### Global Entity Structure
-- Potential offshore entity considered for global operations
-- **CRITICAL REVIEW REQUIRED:** Any offshore structure must have genuine commercial substance
-- Controlled Foreign Corporation rules may attribute offshore income to NZ resident entity
-- Transfer pricing rules apply to any cross-border related-party transactions
-- **Do not establish any offshore structure without specialist advice**
+This paper is informational and is not legal, tax, financial, or investment advice. Legal and tax treatment depends on individual facts and applicable law; consult qualified advisors. Internal tax analyses, entity-structuring options, and advisor-review notes are not part of this public token-launch summary.
 
 ---
 
@@ -274,26 +193,15 @@ PRODUCT REVENUE
 - Controls: mint authority, fee configuration, fee withdrawal, metadata updates
 - All protocol-level changes require 2 of 4 signatories
 
-### Operational Payment Addresses
-| Address | Network | Purpose |
-|---------|---------|---------|
-| `H6R24JdYnmJZTQFgA5J7N6XD8HXxJQwt1N2hNF2LpZ8g` | Solana | Operational — DePIN swaps, x402 |
-| `0xeB424380753Ec763106E2F26A729E60EB1263fF3` | Base/EVM | x402 micro-payment rail |
+### Operational Payment Routing
+
+Operational wallet-purpose mappings and payment endpoints are omitted from this public summary. Public token and governance addresses needed to verify issuance and allocation remain in the token architecture and governance sections.
 
 ---
 
-## VIII. Roadmap (Next 90 Days)
+## VIII. Public Roadmap
 
-| Priority | Item | Element |
-|---------|------|---------|
-| 1 | SatoriINSIGHTS MVP live | Fire |
-| 2 | S4S token liquidity (Raydium pool) | Water |
-| 3 | ElizaOS agentic execution layer | Fire |
-| 4 | SatoriMEMORIES autonomous agent | Metal |
-| 5 | Marine edge node deployment | Water |
-| 6 | Agent-maintained web presence | Fire |
-| 7 | Local 70b LLM deployment | Fire |
-| 8 | SatoriINSUR development start | Metal |
+Public product commitments and delivery milestones are published after approval. This paper does not disclose internal deployment sequencing or represent proposed work as a delivered service.
 
 ---
 
