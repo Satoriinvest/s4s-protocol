@@ -97,9 +97,9 @@ Each spoke is architecturally decoupled — sovereign failure isolation ensures 
 
 **SatoriREGEN** | Status: Development
 - Element: Earth-domain; Fire-powered by SatoriTECH.
-- Decentralised incentive framework for enterprise green IT
-- Verifies EU Code of Conduct on Data Centre Energy Efficiency compliance
-- Issues S4S micro-rewards for verified Carbon Aware Software practices
+- Proposed environmental MRV evidence and credit-state workflows for ecological and enterprise green-IT projects.
+- Any methodology or standards alignment, including the EU Code of Conduct on Data Centre Energy Efficiency or Carbon Aware Software practices, requires separate definition and evidence review; this whitepaper does not claim certification or verified outcomes.
+- Any S4S incentives or micro-rewards remain proposed and require a separately approved design; this taxonomy does not claim that rewards or environmental credits have been issued.
 - Revenue: B2B SaaS licensing + S4S reward distribution
 
 ### 🌊 SatoriFLOW (Water Element)
