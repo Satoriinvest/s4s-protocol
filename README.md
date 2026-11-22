@@ -48,9 +48,11 @@ The S4S token is the circulatory system connecting five elemental product stream
 |---------|-------|-------|---------|
 | 🌊 Water | SatoriFLOW | Marine health, ocean data, blue carbon | SatoriHELPR, Ocean Protocol trading |
 | 🌿 Wood | SatoriBUILD | Eco-construction, resilience, H&S | Slipstream safety app |
-| 🔥 Fire | SatoriTECH | Digital infrastructure, AI, DePIN | Harmonic Navigator, SatoriINSIGHTS, SatoriREGEN |
-| 🌍 Earth | SatoriINVEST | Land vaults, conservation, RWA | BTC-backed terra vaults |
+| 🔥 Fire | SatoriTECH | Digital infrastructure, AI, DePIN | Harmonic Navigator, SatoriINSIGHTS; enabling infrastructure for SatoriREGEN |
+| 🌍 Earth | SatoriINVEST | Land vaults, conservation, RWA | BTC-backed terra vaults, SatoriREGEN |
 | ⚙️ Metal | SatoriCO | Protocol governance, provenance | SatoriMEMORIES, coaching |
+
+SatoriREGEN is Earth-domain and Fire-powered: its product domain is ecological projects, MRV evidence, and environmental-credit state; SatoriTECH supplies the digital control-plane, event-routing, AI, and orchestration infrastructure. At the wider S4S level, Earth can include foundational assets and reserves such as BTC; SatoriREGEN does not own SatoriINVEST's real-estate or BTC-treasury functions. This taxonomy is not proof of credit integrity or deployed integrations.
 
 ---
 
@@ -79,7 +81,7 @@ The S4S token is the circulatory system connecting five elemental product stream
 | Harmonic Navigator | Live | Sovereign OS for personal alignment (astrology, Human Design, Gene Keys, Ayurveda) |
 | SatoriINSIGHTS | Building | Crypto tax reconciliation — NZ IRD, CARF compliance |
 | SatoriFLOW | Live | Marine & environmental data capture, Ocean Protocol |
-| SatoriHELPR | Live | Marine AI navigation and safety |
+| SatoriREGEN | Spec | Earth-domain ecological and enterprise green-IT MRV/credit-state rail, Fire-powered via SatoriTECH |
 | SatoriBUILD Slipstream | Live | Construction health & safety management |
 | SatoriREGEN | Spec | Enterprise green IT decentralised incentive framework |
 | [Job Sorted Pro](https://jobsorted.pro) | Live | Trades & services marketplace |
