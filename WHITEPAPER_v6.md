@@ -96,6 +96,7 @@ Each spoke is architecturally decoupled — sovereign failure isolation ensures 
 - Target markets: NZ retail crypto investors, global CARF-affected users, digital nomads and MNEs
 
 **SatoriREGEN** | Status: Development
+- Element: Earth-domain; Fire-powered by SatoriTECH.
 - Decentralised incentive framework for enterprise green IT
 - Verifies EU Code of Conduct on Data Centre Energy Efficiency compliance
 - Issues S4S micro-rewards for verified Carbon Aware Software practices
