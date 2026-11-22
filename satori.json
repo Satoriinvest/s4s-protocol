@@ -26,7 +26,7 @@
       "address": "ogCuniVGfMcpDUoFW6cAnKit9PymgCF9gJt5W3hvgLi",
       "allocation": 200000000,
       "pct": 20,
-      "role": "Founder/Team \u2014 12mo cliff, 48mo vest"
+      "role": "Founder/Team — 12mo cliff, 48mo vest"
     },
     "earth": {
       "address": "54nrK3Hnhb5RZMWciMBzt6MFF1ciRGJc4qDcHdZ1HaLU",
@@ -38,7 +38,7 @@
       "address": "ECgFCuEWcuUJwFxaFEGaoABBhsFZMr7LuACwtKtzRXy3",
       "allocation": 150000000,
       "pct": 15,
-      "role": "Liquidity \u2014 100% unlocked at launch"
+      "role": "Liquidity — 100% unlocked at launch"
     },
     "fire": {
       "address": "9sesX5oJHU8qDU85yByTmRjvk3r6z9t5xAxd2UZMBqLb",
@@ -59,12 +59,12 @@
     "harmonic_navigator": {
       "status": "live",
       "element": "fire",
-      "description": "Sovereign OS for personal alignment \u2014 astrology, Gene Keys, Human Design, Ayurveda, TCM"
+      "description": "Sovereign OS for personal alignment — astrology, Gene Keys, Human Design, Ayurveda, TCM"
     },
     "satori_insights": {
       "status": "building",
       "element": "fire",
-      "description": "Crypto tax reconciliation \u2014 NZ IRD, CARF, global compliance",
+      "description": "Crypto tax reconciliation — NZ IRD, CARF, global compliance",
       "platform": "Replit"
     },
     "satori_memories": {
@@ -90,7 +90,11 @@
     "satori_regen": {
       "status": "spec",
       "element": "earth",
-      "description": "Earth-domain ecological and enterprise green-IT MRV and credit-state rail; Fire-powered by SatoriTECH"
+      "description": "Earth-domain ecological and enterprise green-IT MRV and credit-state rail; Fire-powered by SatoriTECH",
+      "powered_by": {
+        "product": "SatoriTECH",
+        "element": "fire"
+      }
     },
     "satori_insur": {
       "status": "started",
@@ -105,7 +109,7 @@
     "job_sorted_pro": {
       "status": "live",
       "element": "side",
-      "description": "Service/trades marketplace \u2014 jobsorted.pro"
+      "description": "Service/trades marketplace — jobsorted.pro"
     }
   },
   "depin_nodes": {
